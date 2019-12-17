@@ -12,6 +12,20 @@
 10. git branch --merged
 
 
+
+---
+
+### Stage and Snapshot
+
+1. git status
+2. git add [file]
+3. git reset [file]
+4. git diff
+5. git diff --staged 
+6. git commit -m "[descriptive message]"
+
+
+
 References:
 
 1. https://www.freecodecamp.org/forum/t/push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too/13222
